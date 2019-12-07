@@ -4,8 +4,8 @@
 <!--To change the contents of this file, see the documentation on the intelxdk.config.additions.xml file.-->
 <intelxdk:version value="1.1"/>
 <intelxdk:cordova-cli version="6.2.0"/>
-<name>LMVendas</name>
-<description>Vendas de Produtos Online</description>
+<name>LMComercial</name>
+<description>Cadastro de Clientes</description>
 <author>LM Informatica</author>
 <content src="index.html"/>
 <access origin="*"/>
